@@ -1,13 +1,12 @@
 .parallax {
    
-    background-image: url(gintimg/hero-bg.jpg.webp);
-  
+    background-image: linear-gradient(to right , #111111 0%, rgba(17, 17, 17, 0) 100%), url(gintimg/hero-bg.jpg.webp);
     min-height: 500px; 
     background-attachment: fixed;
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
-
+  
   
   }
 
